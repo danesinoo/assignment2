@@ -3,13 +3,12 @@
    "https://checkstyle.org/dtds/configuration_1_3.dtd">
 <module name="Checker">
   <module name="Header">
-    <property name="headerFile" value="LICENCE.txt"/>
+    <property name="headerFile" value="LICENSE.txt"/>
   </module>
   <module name="LineLength">
     <property name="max" value="90"/>
   </module>
   <module name="FileLength"/>
-  <module name="FileTabCharacter"/>
   <module name="TreeWalker">
     <module name="NeedBraces"/>
     <module name="IllegalImport"/>
