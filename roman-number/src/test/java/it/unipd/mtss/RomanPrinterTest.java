@@ -2,3 +2,13 @@
 // CARLO ROSSO 2034293 
 // LEONARDO BASSO 2042329 
 ////////////////////////////////////////////////////////////////////
+package it.unipd.mtss;
+
+import org.junit.Test;
+
+public class RomanPrinterTest {
+	@Test
+	public void testPrint(){
+		// TODO
+	}
+}
