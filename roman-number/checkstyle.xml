@@ -10,12 +10,12 @@
   </module>
   <module name="FileLength"/>
   <module name="TreeWalker">
-    <module name="NeedBraces"/>
+	  <module name="NeedBraces"/>
     <module name="IllegalImport"/>
     <module name="AvoidStarImport"/>
     <module name="EmptyCatchBlock"/>
     <module name="MethodLength" />
     <module name="CyclomaticComplexity"/>
-    <module name="BooleanExpressionComplexity"/>
+	  <module name="BooleanExpressionComplexity"/>
   </module>
 </module>
